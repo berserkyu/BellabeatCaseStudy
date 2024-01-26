@@ -1080,7 +1080,7 @@ Phua Jun Yu
 
 ------------------------------------------------------------------------
 
-### **Insights**
+### Insights
 
 > > From observation 5, we can glimpse some demographic information of
 > > composition of user profile in the sample from common sense. This
